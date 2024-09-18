@@ -190,21 +190,9 @@ FROM (
 GROUP BY category;
 Objective: Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
 
-Findings and Conclusion
+# Findings and Conclusion
 Content Distribution: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
 Common Ratings: Insights into the most common ratings provide an understanding of the content's target audience.
 Geographical Insights: The top countries and the average content releases by India highlight regional content distribution.
 Content Categorization: Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
-
-Author - Zero Analyst
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
-
-Stay Updated and Join the Community
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
-
-YouTube: Subscribe to my channel for tutorials and insights
-Instagram: Follow me for daily tips and updates
-LinkedIn: Connect with me professionally
-Discord: Join our community to learn and grow together
-Thank you for your support, and I look forward to connecting with you!
